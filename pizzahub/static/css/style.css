@@ -1,0 +1,132 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #EFEFEF;
+} */
+
+.profile-saler{
+    min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #EFEFEF;
+}
+
+.mt-6{
+    margin-top: 6px;
+}
+
+.wd-center{
+    width: 85%;
+}
+
+/* background color */
+
+.bg-black{
+    background-color: rgb(29, 26, 26);
+}
+
+.bg-grey{
+    background-color: darkgrey;
+}
+
+.bg-blue{
+    background-color: rgb(98, 98, 241);
+}
+/* background end */
+
+
+
+
+/* margin css */
+.md-auto{
+    margin: auto;
+}
+
+.mt-30{
+    margin-top: 30px;
+}
+
+.mt-40{
+    margin-top: 40px;
+}
+
+.mt-20{
+    margin-top: 20px;
+}
+
+.mt-5{
+    margin-top: 5px;
+}
+
+
+.mb-40{
+    margin-bottom: 40px;
+}
+
+.mb-30{
+    margin-bottom: 30px;
+}
+
+.mb-15{
+    margin-bottom: 15px;
+}
+
+.mb-5{
+    margin-bottom: 5px;
+}
+
+/* margin end */
+
+.text-align{
+    text-align: center;
+}
+
+/* padding  */
+.pt-40{
+    padding-top: 40px;
+}
+
+.pt-30{
+    padding-top: 30px;
+}
+
+.pt-15{
+    padding-top: 15px;
+}
+
+.pt-5{
+    padding-top: 5px;
+}
+
+
+.pb-40{
+    padding-bottom: 40px;
+}
+
+.pb-30{
+    padding-bottom: 30px;
+}
+
+.pb-15{
+    padding-bottom: 15px;
+}
+
+.pb-5{
+    padding-bottom: 5px;
+}
+
+/* end padding */
+
+
+
+
+
